@@ -94,7 +94,7 @@ Nr	Godzina
 10	16:00 – 16:45
 ________________________________________
 6. Dni tygodnia
-7. 
+
 Kod	Dzień tygodnia
 
 0	Poniedziałek
