@@ -9,12 +9,19 @@ i ustalonych godzin szkolnych. Dane są trwale zapisywane w pliku tekstowym i wc
 ________________________________________
 2. Funkcjonalności
 •	Wyświetlanie planu lekcji od poniedziałku do piątku, z podziałem na 11 godzin lekcyjnych.
+
 •	Możliwość dodawania, edytowania i usuwania lekcji z poziomu interfejsu.
+
 •	Lekcja zawiera:
+
 o	nazwę przedmiotu,
+
 o	numer sali.
+
 •	Automatyczny zapis i odczyt danych z pliku plan_lekcji.txt.
+
 •	Zachowanie danych pomiędzy uruchomieniami aplikacji.
+
 •	Intuicyjny i estetyczny interfejs graficzny.
 ________________________________________
 3. Proces tworzenia aplikacji
