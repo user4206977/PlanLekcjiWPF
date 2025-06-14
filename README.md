@@ -2,7 +2,10 @@ ________________________________________
 Dokumentacja techniczna – Aplikacja WPF: Plan lekcji
 ________________________________________
 1. Opis projektu
-Aplikacja desktopowa stworzona w technologii WPF (Windows Presentation Foundation) służy do tworzenia, przeglądania i edytowania tygodniowego planu lekcji. Zawiera przejrzysty interfejs użytkownika oraz funkcje pozwalające na zarządzanie lekcjami w ramach dni roboczych i ustalonych godzin szkolnych. Dane są trwale zapisywane w pliku tekstowym i wczytywane automatycznie przy każdym uruchomieniu programu.
+Aplikacja desktopowa stworzona w technologii WPF (Windows Presentation Foundation) służy do tworzenia,
+przeglądania i edytowania tygodniowego planu lekcji.
+Zawiera przejrzysty interfejs użytkownika oraz funkcje pozwalające na zarządzanie lekcjami w ramach dni roboczych
+i ustalonych godzin szkolnych. Dane są trwale zapisywane w pliku tekstowym i wczytywane automatycznie przy każdym uruchomieniu programu.
 ________________________________________
 2. Funkcjonalności
 •	Wyświetlanie planu lekcji od poniedziałku do piątku, z podziałem na 11 godzin lekcyjnych.
