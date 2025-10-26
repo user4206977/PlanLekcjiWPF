@@ -159,7 +159,7 @@ ________________________________________
 ________________________________________
 10. Informacje końcowe
 
-Autor: Maciej Strzelec 2P
+Autor: Maciej Strzelec
 
 Data wykonania: Czerwiec 2025
 
